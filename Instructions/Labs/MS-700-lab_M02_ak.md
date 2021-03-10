@@ -598,9 +598,8 @@ Teams retention settings are very important for managing the lifecycle of compan
 
 	- **Description**: Retention policy for Sales department that will retain channel messages for 7 years.
 
-7. On the **Decide if you want to retain content, delete it, or both** page, select **Next**.
 
-8. On the **Choose locations to apply the policy** page, configure the following settings:
+7. On the **Choose locations to apply the policy** page, configure the following settings:
 
 	- **Exchange email**: Off
 
@@ -618,15 +617,17 @@ Teams retention settings are very important for managing the lifecycle of compan
 
 	- **Teams chats**: Off
 
-9. Select **Choose teams** right from **Teams channel messages** to open the right-side pane.
+8. Select **Choose teams** right from **Teams channel messages** to open the right-side pane.
 
-10. Select **Choose teams** to get the list of existing teams. 
+9. Select **Choose teams** to get the list of existing teams. 
 
-11. Select the checkbox left from **Sales** and select **Choose &gt; Done**.
+10. Select the checkbox left from **Sales** and select **Choose &gt; Done**.
 
-12. Select **Next**
+11. Select **Next**
 
-13. On the **Review your settings** page, review your settings and select **Create this policy**.
+12. On the **Decide if you want to retain content, delete it, or both** page, select **Next**.
+
+13. On the **Review and finish** page, review your settings and select **Submit**.
 
 14. Leave the browser open for the next task.
 
@@ -648,15 +649,7 @@ After configuring a retain policy to protect data from deletion, you also need t
 
 	- **Description**: Retention policy for the Teams Rollout team to delete messages older than a day.
 
-5. On the **Decide if you want to retain content, delete it, or both** page, select **No, just delete content that’s older than** with the following information and then select **Next**:
-
-	- **Delete items older than**: 1 days
-
-	- **Delete the content based on**: when it was created
-
- 
-
-6. On the **Choose locations to apply the policy** page, configure the following settings and select **Next**:
+5. On the **Choose locations to apply the policy** page, configure the following settings and select **Next**:
 
 	- **Exchange email**: Off
 
@@ -674,13 +667,19 @@ After configuring a retain policy to protect data from deletion, you also need t
 
 	- **Teams chats**: Off
 
-7. Select **Edit** right from **Teams channel messages** to open the right-side pane.
+6. Select **Edit** right from **Teams channel messages** to open the right-side pane.
 
-8. Select the checkbox left from **Teams Rollout** and select **Done**.
+7. Select the checkbox left from **Teams Rollout** and select **Done**.
 
-9. Select **Next**
+8. Select **Next**
 
-10. On the **Review your settings** page, review your settings and select **Create this policy**.
+9. On the **Decide if you want to retain content, delete it, or both** page, select **No, just delete content that’s older than** with the following information and then select **Next**:
+
+	- **Delete items older than**: 1 days
+
+	- **Delete the content based on**: When items were created
+
+10. On the **Review and finish** page, review your settings and select **Submit**.
 
 11. Leave the browser open for the next task.
 
